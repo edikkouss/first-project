@@ -5,3 +5,11 @@
     border-radius: 10px;
     border:2px solid black;
 }
+
+.ok{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(20, 12, 99);
+    border-radius: 50px;
+    border:2px solid black;   
+}
